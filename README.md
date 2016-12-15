@@ -1,6 +1,6 @@
 # Omega-one-page
-boat maintainment service
+Boat maintenance service
 
-preview avilable on:
+Preview available on:
 
 https://diwaszko.github.io/Omega-one-page/
